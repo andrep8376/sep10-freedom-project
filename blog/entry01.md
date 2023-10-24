@@ -1,5 +1,5 @@
-# Entry 1
-##### X/X/XX
+# Entry 1: Choosing my Topic, Photography
+##### 10/26/23
 
 Text
 

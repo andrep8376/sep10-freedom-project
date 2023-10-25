@@ -13,7 +13,7 @@ I am currently in between steps 1 (defining the problem) and step 2 (researching
 
 Some skills that i have picked up when digging into this topic are creativity and time management
 
-## Creativity
+### Creativity
 
 
 

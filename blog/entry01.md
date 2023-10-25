@@ -1,4 +1,4 @@
-# Entry 1: Choosing and learning on my topic, Photography
+# Entry 1: Choosing and Digging on my topic, Photography
 ##### 10/26/23
 
 ## Choosing a topic
@@ -9,6 +9,16 @@ For my project, I have chosen photography as my focus and topic.  I have always 
 
 I am currently in between steps 1 (defining the problem) and step 2 (researching the problem).  Step 1 had me determining what i wanted to do with this project, what i wanted to find, and what i wanted to solve.  it helped me understand more of what i was passionate about, and grow that ambition.  During step 1, from realizing what was known about the technology in photography, how so many people don't understand how much it is used in it.  Most don't grasp the full concept that all of the a camera and photos have immense amounts of technology, and i feel like that could be a problem for people who are interested in photos, film, photography, and also getting into photography.  Step 2 had me learning more about the amount of technology all throughout photography from start to finish.  For example, when digital cameras hit the scene, technology had already started there and with the resolution of a camera being extremely low and calculations within the lens.  Now, the resolution pixels are much higher then previously, so not only does that show where technology may be located and an example of it, but shows the advancement and amount of it that may be used within a camera and photography.  Step 2 will take some work, and there is plenty more to research, but i am very excited to learn more about it and dig deeper.
 
+## Skills
+
+Some skills that i have picked up when digging into this topic are creativity and time management
+
+## Creativity
+
+
+
+
+ 
 [Next](entry02.md)
 
 [Home](../README.md)

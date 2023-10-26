@@ -15,6 +15,16 @@ Some skills that i have picked up when digging into this topic are creativity an
 
 ### Creativity
 
+Photography in itself brought out a creative side to me that i hadn't known i had before, in the way i take pictures, how i express them, my ideas, and my thought process the entire time.  When i started learning more about technology in photography through this project, it enlightened and opened my mind to even more of a creative side, with much newer ideas, and then adding things such as configuring settings within a camera to change what i want in a picture and how its taken.  All of that through the technology that comes within a camera and photography, it opened a new light to my mind and my creativity, learning so much more about my pictures and what was going on in my head.
+
+### time management
+
+I have always been a procrastinating type of person when it came to things that i was doing, especially school work, but also in most things in my life.  I had always waited until last minute to do something, and it's always been that way.  Through this project, i have realized how to manage my time much better by finding things that i enjoy, and spacing them out evenly to get it done in quick time, but also efficiently.  Even if i do something that is about a topic that doesn't interest me, I know that i can find something that does interest me deep within that topic, and i will enjoy it more and will influence me to space it out more instead of waiting until last minute, and getting it done with effectively.
+
+## Next Step
+
+My next step for this project is furthing my research and knowledge of the technology within photography, and then advancing to solve solutions to problems that may come within that topic.
+
 
 
 

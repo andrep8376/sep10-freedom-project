@@ -1,5 +1,5 @@
-# Entry 2
-##### X/X/XX
+# Entry 2: Researching about the ins and outs of Photography
+##### 11/27/23
 
 Text
 

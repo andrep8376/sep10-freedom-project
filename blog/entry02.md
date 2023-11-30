@@ -18,7 +18,13 @@ I am more in dept with step 2 which is researching the problem and information a
 My skills for this project previously of creativity and time management have grown while researching more and digging deeper into my topic.
 
 ### Creativity
-While researching the hardware and software that consist with photography and through cameras, it broadened my ideas and thoughts process with some of the pictures that i take and taking me closer to more creative ideas with what i want to do with photography.  It even
+While researching the hardware and software that consist with photography and through cameras, it broadened my ideas and thoughts process with some of the pictures that i take and taking me closer to more creative ideas with what i want to do with photography.  It even helped me be creative when choosing the places i wanted to lok at to search for my information, and being more open and wide to where it was.
+
+### Time Management
+Over the course of this project i have taken my time and thoroughly researched about my topic and the problems, and finding deeper and more information on it.  Usually i would rush through and just try to get as much as i possibly can based off the basic informatiom that i would see, but through this project and topic i looked through many websites, read about it, and found some of the best and most informative information for what would relate to my project and the problem that i am trying to solve with it.
+
+## Next step
+My next step is going to be to try and fine possible solutions to my problem and learn more about the technology in photography, and how to expand on it.
 
 
 

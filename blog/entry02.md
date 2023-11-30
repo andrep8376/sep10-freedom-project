@@ -18,7 +18,7 @@ I am more in dept with step 2 which is researching the problem and information a
 My skills for this project previously of creativity and time management have grown while researching more and digging deeper into my topic.
 
 ### Creativity
-While researching the hardware and software that consist with photography and through cameras
+While researching the hardware and software that consist with photography and through cameras, it broadened my ideas and thoughts process with some of the pictures that i take and taking me closer to more creative ideas with what i want to do with photography.  It even
 
 
 

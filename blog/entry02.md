@@ -1,4 +1,4 @@
-# Entry 2: Researching about the ins and outs of Photography
+# Entry 2: Researching about the internal and external of Photography
 ##### 11/27/23
 
 ## Content

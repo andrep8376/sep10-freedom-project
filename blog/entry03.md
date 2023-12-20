@@ -35,7 +35,14 @@ Through these parts of my project i had further developed my knowledge and infor
 <li>Despite the speed it will be able to take pictures in extremely high resolution and quality.</li>
 </ul>
 
-Some of my sources consisted of reviews on (Adobe Lightroom)[https://www.pcmag.com/reviews/adobe-lightroom]
+Some of my sources consisted of reviews on [Adobe Lightroom](https://www.pcmag.com/reviews/adobe-lightroom), website information of apps like [Caputure One Pro](https://www.dpreview.com/reviews/capture-one-pro-23-review-a-much-improved-image-editor-with-cool-collaboration-features), and [Adoramas guide to parts of a camera](https://www.adorama.com/alc/parts-of-a-camera/#:~:text=The%20seven%20basic%20parts%20of,to%20capture%20and%20store%20photographs)
+
+## Engineering Design Process(EDP)
+For this section of the project i was going through stage 3 of the engineering design process, which is to brainstorm solutions.  I had been gathering more and more information on my topic and starting to create ideas of my own based on the technology that was already present within the world of photography.  More information is released every day about the technology in photography and many can gain various ideas and innovations that could be created over just this technology that is discovered.  With learning and researching i was able to create many ideas for my self of things that could be created as tech advances and grows and that could also be extremely beneficial to society. 
+
+## Skills
+Over the co
+
 
 
 

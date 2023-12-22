@@ -41,7 +41,16 @@ Some of my sources consisted of reviews on [Adobe Lightroom](https://www.pcmag.c
 For this section of the project i was going through stage 3 of the engineering design process, which is to brainstorm solutions.  I had been gathering more and more information on my topic and starting to create ideas of my own based on the technology that was already present within the world of photography.  More information is released every day about the technology in photography and many can gain various ideas and innovations that could be created over just this technology that is discovered.  With learning and researching i was able to create many ideas for my self of things that could be created as tech advances and grows and that could also be extremely beneficial to society. 
 
 ## Skills
-Over the co
+Over the course of this project i have continued to develop my skills with creativity and time management especially in this exact process time period.
+
+### Creativity
+While doing stage 3 of my freedom project, there was a lot more creativity that had to be put into play wwith things such as my ideas and how i wanted to lay out my information, getting it ready for a website, and much more.  The biggest part of my creativity that was expressed doing this was when i had to come up with my own innovations and ideas with the technology of photography.  You can use some of the previous technology that has been provided and what has been given with information that you know, and then your own ideas start to push out and you can create things for the future that can benefit not only photography but can also benefit society as a whole.  That was my motif when trying to come up with ideas for this project and solutions to the problems that occur.
+
+### Time Management
+This section of the project was very lengthy, and also had many forms of research that was needed and lots of writing.  I was able to come up with good schedules and ideas to how i was going to get everything done well and also on time.  I was able to do all of my research, jot it down general but also thorough, and organize it all within a specific time frame.  I had broken it up into multiple days and by when it was due i was able to get it done in orderly fashion.  I had done the same thing when it came down to other parts of stage 3, for both part A and B and content.  I had set myself a schedule and stuck to it and i had gotten it all done in time with great information and organized deeply.
+
+## Next steps
+My next steps that i am taking on this project is to figure out which would be the most promising solution to my problem and topic, and further develop that idea and how i would create it to work.
 
 
 

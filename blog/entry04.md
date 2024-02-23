@@ -10,7 +10,9 @@ This is a snippet/image of the code i used to create the image, and how there is
 
 The Document about [Aframes introduction](https://aframe.io/docs/1.5.0/introduction/) was where i learned about the code and some of the things it was capable of, and in [this video](https://www.youtube.com/watch?v=ktjMCanKNLk&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV) is where i learned truly what Aframe was and what you could do with it.
 
+## Engineering Design Process (EDP)
 
+For this part of my project i was in between stages 3 and 4 of the EDP.  I was brainstorming possible solutions, with creating ideas and things that may be revolutionary and extremely interesting for the history and whats to come with photography.  The main part of this section was how i was going to display my information on a web page, and thats where step 4 came in.  I researched about different CSS ideas and designs that would be used on my own page, and i found one that i really liked that had an endless amount of possibilites of what you can do.  This one was even interractive and so people on the webpage viewing it would be able to take a step into my head and move around in it with the ideas that i created and how they might be.
 
 
 

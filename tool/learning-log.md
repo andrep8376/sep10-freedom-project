@@ -32,6 +32,7 @@ Tool: **Aframe**
 ### it was a bit challenging trying to stack them all together, i would constantly get the positioning messed up but eventually i got the hang of it.
 ### After i made the tree I wanted to add a little more so I put some tiny rocks at the bottom of the tree.
 
+<img width="1236" alt="Screenshot 2024-03-09 at 8 44 16 PM" src="https://github.com/andrep8376/sep10-freedom-project/assets/146866615/f53f28a7-bf98-4eda-96e9-6287ee7ead59">
 
 
 

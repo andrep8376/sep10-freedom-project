@@ -34,7 +34,7 @@ Tool: **Aframe**
 
 <img width="1236" alt="Screenshot 2024-03-09 at 8 44 16 PM" src="https://github.com/andrep8376/sep10-freedom-project/assets/146866615/f53f28a7-bf98-4eda-96e9-6287ee7ead59">
 
-
+### The next thing i plan on trying to learn out of my tool is reshaping the shapes, and creating an even larger scale of nature and scenery that can relate to my project
 
 
 <!--

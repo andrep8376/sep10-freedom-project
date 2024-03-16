@@ -37,6 +37,14 @@ Tool: **Aframe**
 ### The next thing i plan on trying to learn out of my tool is reshaping the shapes, and creating an even larger scale of nature and scenery that can relate to my project
 
 
+## 3/18/24
+
+###
+
+### In my last learning log i made a tree with some rocks near its roots on the bottom.  I thought of trying out a bigger set of scenery, more trees and more rocks.
+### I think i will implement more of the nature as i go and think of more ideas but that is my plan for now.
+### I will take some of the same code i used for the trees and move around their positions to create a more realistic view.
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc

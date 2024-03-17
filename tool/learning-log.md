@@ -44,6 +44,14 @@ Tool: **Aframe**
 ### In my last learning log i made a tree with some rocks near its roots on the bottom.  I thought of trying out a bigger set of scenery, more trees and more rocks.
 ### I think i will implement more of the nature as i go and think of more ideas but that is my plan for now.
 ### I will take some of the same code i used for the trees and move around their positions to create a more realistic view.
+### I first started off with the simple tree, and added a bunch of more code of the same so i can get some more trees.
+### I then thought of spacing them out but also having them kind of intertwine like it does in real life.
+### While trying to space them out i kept getting confused and misplacing everything with the positive and negative positioning, but eventually i got it just right.
+### I wanted some to stand out so I added some that didn't have any rocks just to differentiate a little bit.
+
+![Screenshot 2024-03-16 223433](https://github.com/andrep8376/sep10-freedom-project/assets/146866615/ea60bf5c-a64e-4d2a-b2b8-4dcc5586555f)
+
+### The next thing that i want to try for my tool is to create an entirely different landscape with some new ideas that come to mind and what i see around me in my everyday life.
 
 <!--
 * Links you used today (websites, videos, etc)

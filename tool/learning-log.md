@@ -53,7 +53,22 @@ Tool: **Aframe**
 
 ### The next thing that i want to try for my tool is to create an entirely different landscape with some new ideas that come to mind and what i see around me in my everyday life.
 
+## 3/25/24
+
+### In this learning log i wanted to make something that reminded me of everyday life, things that i always see.
+### I was thinking for a while and brainstorming my ideas, and i came to the conclusion that i wanted to try and make something that had to do with a bulding.
+### I see a lot of buildings everywhere, and i wanted to do the simple brick apartment like building.
+### My plan was just a large building with a lot of windows and on one side a door.
+### A big challenge i had was with changing the colors for the windows.  I kept making mistakes trying to lign them up in the right order and it was not going well.  I finally got the hang of it.
+
+![Screenshot 2024-03-23 211749](https://github.com/andrep8376/sep10-freedom-project/assets/146866615/dad3e357-8db8-41db-ba50-709035a36af8)
+
+### This is what i came up with in the end.  It was very challenging because there was so many blocks and lines of code, 322 to be exact that went into it so changing it was a bit of a hassle.
+### I think there would be some things i want to improve with next time like the realisticness and also the windows, but i will continue to learn.
+### The next learning log i do and want to try is to make a bigger landscape, maybe a skyline of some sort.
+
 <!--
+
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
 * Challenges, a-ha moments, etc

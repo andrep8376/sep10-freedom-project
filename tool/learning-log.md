@@ -60,6 +60,8 @@ Tool: **Aframe**
 ### I see a lot of buildings everywhere, and i wanted to do the simple brick apartment like building.
 ### My plan was just a large building with a lot of windows and on one side a door.
 ### A big challenge i had was with changing the colors for the windows.  I kept making mistakes trying to lign them up in the right order and it was not going well.  I finally got the hang of it.
+### The positioning aspect of this also was really challenging and takes a lot.  Having to align everything just right and keep up with that many lines of code aswell.
+### Eventually after continuing to tinker with it i got the hang of it and was able to create something that wasnt 2d and had sides to it.
 
 ![Screenshot 2024-03-23 211749](https://github.com/andrep8376/sep10-freedom-project/assets/146866615/dad3e357-8db8-41db-ba50-709035a36af8)
 

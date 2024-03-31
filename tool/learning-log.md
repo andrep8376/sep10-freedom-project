@@ -83,6 +83,7 @@ Tool: **Aframe**
 ### I really hated it, it felt too plain and there was nothing there.  I also got fustrated because of how much i was constantly adjusting numbers.  Hundreds of lines of code of working numbers.
 ### I think i might try to instead make a detailed inside of a building and see how that turns out.
 ### I don't know if i am going to do it in this learning log or if i am going to just work on it in the next.
+### One thing that i don't like with Aframe or atleast the place where i was coding is that it doesn't save.  You have a window of whne it saves and once that window is over its gone.  It makes you feel like you're on a time crunch.
 
 <!--
 

@@ -69,6 +69,21 @@ Tool: **Aframe**
 ### I think there would be some things i want to improve with next time like the realisticness and also the windows, but i will continue to learn.
 ### The next learning log i do and want to try is to make a bigger landscape, maybe a skyline of some sort.
 
+## 4/2/24
+
+### In this learning log i want to branch on to what i was creating last time, and i want to make a skyline with different types of buildings, colors, things of that nature.
+### The first thing i was going to to do was recreate the bulding i had from my previous learning log, and then expand horizontally from there.
+### I am using New York city as my inspiration, the views you would get of Manhattan from across the water in brooklyn, the skyline is very memorable and so i will use that.
+### One thing i struggled on was the positioning of these buildings, making sure they were exactly what i wanted.
+### I also struggled with the colors and windows, for some reason those are kind of difficult for me making them be positioned all in the right spots.
+
+![Screenshot 2024-03-30 223919](https://github.com/andrep8376/sep10-freedom-project/assets/146866615/014f1fd3-134f-458a-9087-7d7ba6fa0e4f)
+
+### This is what it looked like after i tried to put together something.
+### I really hated it, it felt too plain and there was nothing there.  I also got fustrated because of how much i was constantly adjusting numbers.  Hundreds of lines of code of working numbers.
+### I think i might try to instead make a detailed inside of a building and see how that turns out.
+### I don't know if i am going to do it in this learning log or if i am going to just work on it in the next.
+
 <!--
 
 * Links you used today (websites, videos, etc)

@@ -37,7 +37,56 @@ Tool: **Aframe**
 ### The next thing i plan on trying to learn out of my tool is reshaping the shapes, and creating an even larger scale of nature and scenery that can relate to my project
 
 
+## 3/18/24
+
+###
+
+### In my last learning log i made a tree with some rocks near its roots on the bottom.  I thought of trying out a bigger set of scenery, more trees and more rocks.
+### I think i will implement more of the nature as i go and think of more ideas but that is my plan for now.
+### I will take some of the same code i used for the trees and move around their positions to create a more realistic view.
+### I first started off with the simple tree, and added a bunch of more code of the same so i can get some more trees.
+### I then thought of spacing them out but also having them kind of intertwine like it does in real life.
+### While trying to space them out i kept getting confused and misplacing everything with the positive and negative positioning, but eventually i got it just right.
+### I wanted some to stand out so I added some that didn't have any rocks just to differentiate a little bit.
+
+![Screenshot 2024-03-16 223433](https://github.com/andrep8376/sep10-freedom-project/assets/146866615/ea60bf5c-a64e-4d2a-b2b8-4dcc5586555f)
+
+### The next thing that i want to try for my tool is to create an entirely different landscape with some new ideas that come to mind and what i see around me in my everyday life.
+
+## 3/25/24
+
+### In this learning log i wanted to make something that reminded me of everyday life, things that i always see.
+### I was thinking for a while and brainstorming my ideas, and i came to the conclusion that i wanted to try and make something that had to do with a bulding.
+### I see a lot of buildings everywhere, and i wanted to do the simple brick apartment like building.
+### My plan was just a large building with a lot of windows and on one side a door.
+### A big challenge i had was with changing the colors for the windows.  I kept making mistakes trying to lign them up in the right order and it was not going well.  I finally got the hang of it.
+### The positioning aspect of this also was really challenging and takes a lot.  Having to align everything just right and keep up with that many lines of code aswell.
+### Eventually after continuing to tinker with it i got the hang of it and was able to create something that wasnt 2d and had sides to it.
+
+![Screenshot 2024-03-23 211749](https://github.com/andrep8376/sep10-freedom-project/assets/146866615/dad3e357-8db8-41db-ba50-709035a36af8)
+
+### This is what i came up with in the end.  It was very challenging because there was so many blocks and lines of code, 322 to be exact that went into it so changing it was a bit of a hassle.
+### I think there would be some things i want to improve with next time like the realisticness and also the windows, but i will continue to learn.
+### The next learning log i do and want to try is to make a bigger landscape, maybe a skyline of some sort.
+
+## 4/2/24
+
+### In this learning log i want to branch on to what i was creating last time, and i want to make a skyline with different types of buildings, colors, things of that nature.
+### The first thing i was going to to do was recreate the bulding i had from my previous learning log, and then expand horizontally from there.
+### I am using New York city as my inspiration, the views you would get of Manhattan from across the water in brooklyn, the skyline is very memorable and so i will use that.
+### One thing i struggled on was the positioning of these buildings, making sure they were exactly what i wanted.
+### I also struggled with the colors and windows, for some reason those are kind of difficult for me making them be positioned all in the right spots.
+
+![Screenshot 2024-03-30 223919](https://github.com/andrep8376/sep10-freedom-project/assets/146866615/014f1fd3-134f-458a-9087-7d7ba6fa0e4f)
+
+### This is what it looked like after i tried to put together something.
+### I really hated it, it felt too plain and there was nothing there.  I also got fustrated because of how much i was constantly adjusting numbers.  Hundreds of lines of code of working numbers.
+### I think i might try to instead make a detailed inside of a building and see how that turns out.
+### I don't know if i am going to do it in this learning log or if i am going to just work on it in the next.
+### One thing that i don't like with Aframe or atleast the place where i was coding is that it doesn't save.  You have a window of whne it saves and once that window is over its gone.  It makes you feel like you're on a time crunch.
+
 <!--
+
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
 * Challenges, a-ha moments, etc

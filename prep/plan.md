@@ -1,7 +1,7 @@
 # Plan
 
 ## Wireframes
-* [Mobile](file:///Users/andrepagan/Desktop/Screenshot%202024-04-11%20at%2011.23.49%E2%80%AFAM.png)
+* [Mobile]()
 * [Desktop]()
 
 ## Colors

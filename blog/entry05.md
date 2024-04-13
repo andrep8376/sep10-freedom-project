@@ -16,10 +16,10 @@ This step of my freedom project were in between steps 4, 5, and 6.  I have still
 ## Skills
 In this portion of the freedom project i developed more of my creativity and my time management skills, much further than before.
 
-# Creativity
+### Creativity
 Aframe really allows you to push the limits with your creativity and allow the ideas in your brain to flourish.  3d models are much harder and you have to really allow your brain to take over, and that's exactly what i did.  I had some ideas for what i wanted to do, but they came out better than i thought of due to aframe, and also as you are experimenting with it your creativity expands and you want to add more to your project.
 
-# Time Management
+### Time Management
 While working with my tool, we had learning logs that were due dates to certain steps of our learning and tinkering.  These deadlines and time frames really helped me with time management, deciding when i wanted to use more time or less time, when i needed to.  I took time specifically for each deadline throughout the week and designed some ideas with it, which was very time consuming but that is how it really helped out my time management skills.
 
 ## Next Steps

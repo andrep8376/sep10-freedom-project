@@ -1,14 +1,18 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Mobile](https://wireframe.cc/X9KBe6)
+* [Desktop](https://wireframe.cc/uBcKNE)
 
 ## Colors
-* `#ABC123`
+* `#7393B3`-blue grey
+* `#6495ED`-cornflower blue
+* `#ADD8E6`-lightblue
+* `#0F52BA`-sapphire blue
 
 ## Fonts
-* [Text](URL)
+* [Jersey 20](https://fonts.google.com/specimen/Jersey+20)
+*
 
 ## Timeline
 

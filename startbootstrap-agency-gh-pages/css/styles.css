@@ -2853,8 +2853,8 @@ textarea.form-control-lg {
   --bs-btn-hover-border-color: #7393B3;
   --bs-btn-focus-shadow-rgb: 255, 208, 38;
   --bs-btn-active-color: #fff;
-  --bs-btn-active-bg: #cca000;
-  --bs-btn-active-border-color: #bf9600;
+  --bs-btn-active-bg: #6495ED;
+  --bs-btn-active-border-color: #7393B3;
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
   --bs-btn-disabled-color: #fff;
   --bs-btn-disabled-bg: #ffc800;
@@ -5808,7 +5808,7 @@ textarea.form-control-lg {
   display: none;
   float: left;
   width: 100%;
-  margin-right: -100%;
+  margin-right: 50%;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
   transition: transform 0.6s ease-in-out;
@@ -10904,7 +10904,7 @@ p {
   letter-spacing: 0.0625em;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #ffc800;
+  color: #ADD8E6;
 }
 
 @media (min-width: 992px) {

@@ -599,9 +599,16 @@ progress {
 }
 
 .img-fluid {
-  max-width: 100%;
+  max-width: 156px;
+  height: 156px;
+}
+
+.port {
+  max-width:100%;
   height: auto;
 }
+
+
 
 .img-thumbnail {
   padding: 0.25rem;
@@ -10926,7 +10933,7 @@ p {
   #mainNav.navbar-shrink {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: #212529;
+    background-color: #7393B3;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;

@@ -16,9 +16,18 @@
 
 ## Timeline
 
+* Monday- work on navbar and technical things for the website and plan all of the colors
+* Tuesday- work on the bio and timeline of photography
+* Wednesday- Carousel & Work on the cards and information/content of existing technology
+* Thursday- Work on tool and create the 3d model and put it onto website
+* Friday- Work on quotes and wrap up
 #### MVP
 
-* Task/Timeline
+* Navbar/ Monday
+* The history section and images/ Tuesday
+* Work on the carousel and the cards with my notes/ Wednesday
+* Create my 3D model with Aframe and put it somewhere on the website/ Thursday
+* Work on the accordian and text and wrap up/ Friday
 
 ---
 

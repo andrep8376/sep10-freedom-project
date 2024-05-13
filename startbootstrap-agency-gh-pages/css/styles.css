@@ -246,7 +246,7 @@ sup {
 }
 
 a {
-  color: var(--bs-link-color);
+  color: #ADD8E6;
   text-decoration: underline;
 }
 a:hover {
@@ -608,7 +608,11 @@ progress {
   height: auto;
 }
 
-
+.carousel {
+  height: 75%;
+  width: 80%;
+  margin: 0 auto;
+}
 
 .img-thumbnail {
   padding: 0.25rem;
@@ -7278,6 +7282,7 @@ textarea.form-control-lg {
 
 .w-100 {
   width: 100% !important;
+  height: 75% !important;
 }
 
 .w-auto {
@@ -7343,6 +7348,16 @@ textarea.form-control-lg {
 .flex-row-reverse {
   flex-direction: row-reverse !important;
 }
+
+.carousel-inner {
+  border-top: 10px;
+  border-left: 10px;
+  border-right: 10px;
+  border-bottom: 10px;
+  border-color: blue;
+  border-style: solid;
+}
+
 
 .flex-column-reverse {
   flex-direction: column-reverse !important;

@@ -33,4 +33,7 @@
 
 #### Beyond MVP
 
-* Task
+* Make images more responsive and adjust the sizing of them.
+* Work on Navbar so that it fits well for mobile as well better than it does.
+* Make things lest cluttered and spaced out.
+* Overall neater website and make it a little bit more responsive.

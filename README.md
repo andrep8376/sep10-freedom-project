@@ -6,19 +6,24 @@ I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering P
 
 For my project, I chose the topic of **Photography**. 
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make by website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A-Frame** in order to help me make by website.
+
+Photography is something that everybody should know about, even just scratching the surface of it.  Some things people don't realize is just how much the world as we know it has been impacted by photography and that is why i chose to research it and help the people know more about it.  it is everywhere, in schools, on our phones, the places we walk in our neighborhoods, and so much more.  The things that photography have done for the world are tremendous with things such as criminal investigations, forensics, research, scientific work, surgeries, telling stories, and the list forever goes on.  The purpose of this project was just that, to help spread that awareness and understanding of what photography is and how important it is which many don't realize.
+
+The blogs i have done will help one understand the process it took to create this project, my though process, takeaways, accomplishments, setbacks, and how overall everything went down.  They have been creating since the beginning of this projectr and take you along the long journey of the Freedom Project.
 
 ## Links
 
-[Product]()
+[Product](https://andrep8376.github.io/sep10-freedom-project/startbootstrap-agency-gh-pages/)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1jXE4YZlWyaa1-zrZfrmXtkYHyd8jZon5Mk9e6YoLdEI/edit#slide=id.p)
 
 ## Implications
 ##### PROS
 * 
 ##### CONS
 * 
+
 
 
 ## Blog
